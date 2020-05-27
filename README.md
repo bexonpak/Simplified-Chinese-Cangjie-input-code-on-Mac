@@ -1,5 +1,5 @@
 # Simplified Chinese Cangjie input code on macOS, iOS, iPadOS
-施工中: 10/2553
+**施工中: 10/2553**
 
 由于 macOS, iOS, iPadOS 等 Apple Device 上的仓颉简体字编码跟五代仓颉有所差异，从而也导致了速成输入法有差别。
 
