@@ -17,7 +17,7 @@
 ```
 「锂」  五代仓颉:「人心田土」  苹果仓颉:「人心田土|难金田土」 苹果速成:「人土」
 
-// 苹果速成不能打成「难土|金土」
+// 苹果速成不能打成「金土|难土」
 ```
 
 目前共收录 2553 个常用简体字，如有错误或遗漏，可以在 [https://github.com/bexonpak/Simplified-Chinese-Cangjie-input-code-on-Mac/issues](issues) 中提出。
